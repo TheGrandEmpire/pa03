@@ -1,5 +1,3 @@
-package pa03;
-
 
 /**
  * RadiusChangingCircles are yellow circles which move at a constant velocity

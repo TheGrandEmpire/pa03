@@ -1,4 +1,3 @@
-package pa03;
 
 import java.awt.Color;
 
