@@ -32,13 +32,14 @@ public class DrawingModel {
 			// each time through this loop.. with 5 classes you'll divide by 5
 			// WHEN YOU ADD ANOTHER SUBCLASS OF CIRCLESHAPE YOU NEED TO
 			// CREATE IT AND ADD IT TO MODEL
-			c = new CircleShape();
-			this.add(c);
 
       c = new RadiusChangingCircle();
       this.add(c);
 
 			c = new SpencerCircle();
+			this.add(c);
+
+			c = new JacobCircle();
 			this.add(c);
 
 		}
