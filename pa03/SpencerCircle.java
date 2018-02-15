@@ -1,4 +1,4 @@
-package pa03;
+
 import java.awt.*;
 import java.util.Random;
 

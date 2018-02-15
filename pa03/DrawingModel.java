@@ -38,6 +38,9 @@ public class DrawingModel {
 	      c = new RomanCircle();
 	      this.add(c);
 
+			c = new JacobCircle();
+			this.add(c);
+
 		}
 	}
 
